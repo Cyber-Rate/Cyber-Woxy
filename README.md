@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hello, I'm Cyber</h1>
 
-<!--
-**Cyber-Woxy/Cyber-Woxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Merhabalar Ben Poyraz, Genellikle Discord Platformunda (**Javascript**) Kullanarak Discord Bot Geliştiriyorum. 
+
+
+<h3 align="center">İletişim</h3>
+
+Benimle **Discord** Hesabımdan Üzerinden İletişime Geçebilirsiniz. [Discord](https://discord.com/users/585864203412308004)(CYBERR ¿#1402)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Cyber-Woxy&show_icons=true&theme=radical" alt="Cyber-Woxygithubistatistik" /></p>
+
