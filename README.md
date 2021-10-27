@@ -1,25 +1,25 @@
- ✨ Hi, I am Cyber 
+# ✨ Hi, I am Cyber 
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=SeonerVorteX&color=blue%22/%3E
+    <img src="https://komarev.com/ghpvc/?username=Cyber-Woxy&color=blue"/>
+</div>  
+
+Hi there. I'm a JS developer. I started software development 2 year ago with developing Discord bots.
+<div align="center">
+ 
+    <a href="https://discord.com/users/585864203412308004" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/585864203412308004"></a>
 </div>
 
-Hi there. I'm a JS developer. I started software development 1 year ago with developing Discord bots.
-
 <div align="center">
-    <a href="https://discord.com/users/585864203412308004" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/585864203412308004%22%3E</a>
-</div>
-
-<div align="center">
-    <a href="https://discord.com/users/585864203412308004" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/585864203412308004%22%3E</a>
+    <a href="https://discord.com/users/585864203412308004" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/585864203412308004"></a>
 </div>
 
 ## ⚡ Contact
 
 <div align="center">
     <a href="https://discord.com/users/585864203412308004" target="_blank"><img src="https://img.shields.io/badge/-Cyber-black?style=for-the-badge&logo=discord&logoColor=1e44ee"></a>
-    <a href="https://github.com/Cyber-Woxy" target="_blank"><img src="https://img.shields.io/badge/-Cyber-black?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://discord.gg/rate" target="_blank"><img src="https://img.shields.io/badge/-My%20Server-black?style=for-the-badge&logo=discord&logoColor=1e44ee"></a>
+    <a href="https://github.com/Cyber-Woxy" target="_blank"><img src="https://img.shields.io/badge/-VorteX-black?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://discord.gg/rate" target="_blank"><img src="https://img.shields.io/badge/-Rate%201920-black?style=for-the-badge&logo=discord&logoColor=1e44ee"></a>
 </div>
 
 ## 💻 Languages I Use And Learn
