@@ -7,7 +7,7 @@
 Hi there. I'm a JS developer. I started software development 2 year ago with developing Discord bots.
 <div align="center">
  
-https://lanyard-profile-readme.vercel.app/api/585864203412308004?theme=light&bg=1c1c1c&animated=false&hideDiscrim=false&borderRadius=30px)]https://discord.com/users/585864203412308004
+https://lanyard-profile-readme.vercel.app/api/585864203412308004?theme=light&bg=1c1c1c&animated=false&hideDiscrim=false&borderRadius=30px https://discord.com/users/585864203412308004
 ## ⚡ Contact
 
 <div align="center">
