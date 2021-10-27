@@ -14,6 +14,9 @@ Hi there. I'm a JS developer. I started software development 2 year ago with dev
     <a href="https://discord.com/users/585864203412308004" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/585864203412308004"></a>
 </div>
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/585864203412308004
+                            )](https://discord.com/users/585864203412308004)
+
 ## ⚡ Contact
 
 <div align="center">
