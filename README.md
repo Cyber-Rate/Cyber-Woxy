@@ -6,10 +6,7 @@
 
 Hi there. I'm a JS developer. I started software development 2 year ago with developing Discord bots.
 <div align="center">
- 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/585864203412308004?hideDiscrim=true)](https://discord.com/users/585864203412308004)
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/611344430896513024?hideDiscrim=true)](https://discord.com/users/611344430896513024)
-## ⚡ Contact
+ ## ⚡ Contact
 
 <div align="center">
     <a href="https://discord.com/users/585864203412308004" target="_blank"><img src="https://img.shields.io/badge/-Cyber-black?style=for-the-badge&logo=discord&logoColor=1e44ee"></a>
