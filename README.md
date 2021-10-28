@@ -9,7 +9,7 @@
 
 
 
-                      Hi there. I'm a JS developer. I started software development 2 year ago with developing Discord bots.
+                  Hi there. I'm a JS developer. I started software development 2 year ago with developing Discord bots.
 <div align="center">
  ## ⚡ Contact
 
