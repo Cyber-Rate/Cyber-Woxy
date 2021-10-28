@@ -4,6 +4,11 @@
     <img src="https://komarev.com/ghpvc/?username=Cyber-Woxy&color=blue"/>
 </div>  
 
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/585864203412308004?theme=light&bg=1c1c1c&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/585864203412308004)
+
+
+
 Hi there. I'm a JS developer. I started software development 2 year ago with developing Discord bots.
 <div align="center">
  ## ⚡ Contact
