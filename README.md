@@ -16,7 +16,7 @@
 <div align="center">
     <a href="https://discord.com/users/585864203412308004" target="_blank"><img src="https://img.shields.io/badge/-Cyber-black?style=for-the-badge&logo=discord&logoColor=1e44ee"></a>
     <a href="https://github.com/Cyber-Woxy" target="_blank"><img src="https://img.shields.io/badge/-Cyber-black?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://discord.gg/rate" target="_blank"><img src="https://img.shields.io/badge/-Rate%201920-black?style=for-the-badge&logo=discord&logoColor=1e44ee"></a>
+    <a href="https://discord.gg/rate" target="_blank"><img src="https://img.shields.io/badge/-Rate%201993-black?style=for-the-badge&logo=discord&logoColor=1e44ee"></a>
 </div>
 
 ## 💻 Languages I Use And Learn
