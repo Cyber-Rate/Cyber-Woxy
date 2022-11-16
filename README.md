@@ -5,7 +5,7 @@
 </div>  
 
 
-   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/982380449890455572?theme=light&bg=1c1c1c&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/708818100992213102)
+   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/708818100992213102?theme=light&bg=1c1c1c&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/708818100992213102)
 
 
 
