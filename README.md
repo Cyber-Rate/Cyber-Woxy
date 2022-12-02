@@ -1,7 +1,7 @@
 # ✨ Hi, I am Cyber 
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Cyber-Woxy&color=blue"/>
+    <img src="https://komarev.com/ghpvc/?username=Cyber-Rate&color=blue"/>
 </div>  
 
 
@@ -15,7 +15,7 @@
 
 <div align="center">
     <a href="https://discord.com/users/708818100992213102" target="_blank"><img src="https://img.shields.io/badge/-Cyber-black?style=for-the-badge&logo=discord&logoColor=1e44ee"></a>
-    <a href="https://github.com/Cyber-Woxy" target="_blank"><img src="https://img.shields.io/badge/-Cyber-black?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://github.com/Cyber-Rate" target="_blank"><img src="https://img.shields.io/badge/-Cyber-black?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://discord.gg/rate" target="_blank"><img src="https://img.shields.io/badge/-Rate%201993-black?style=for-the-badge&logo=discord&logoColor=1e44ee"></a>
 </div>
 
@@ -24,6 +24,6 @@
 ## 📈 Github Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Cyber-Woxy&show_icons=true&theme=radical&hide_border=true" width="%100" height="150px">
+    <img src="https://github-readme-stats.vercel.app/api?username=Cyber-Rate&show_icons=true&theme=radical&hide_border=true" width="%100" height="150px">
     <br>
 </div>
