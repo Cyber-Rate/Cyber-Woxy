@@ -5,7 +5,7 @@
 </div>  
 
 
-   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/708818100992213102?theme=light&bg=1c1c1c&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/708818100992213102)
+   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1046883964951990316?theme=light&bg=1c1c1c&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/1046883964951990316)
 
 
 
@@ -14,7 +14,7 @@
  ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/708818100992213102" target="_blank"><img src="https://img.shields.io/badge/-Cyber-black?style=for-the-badge&logo=discord&logoColor=1e44ee"></a>
+    <a href="https://discord.com/users/1046883964951990316" target="_blank"><img src="https://img.shields.io/badge/-Cyber-black?style=for-the-badge&logo=discord&logoColor=1e44ee"></a>
     <a href="https://github.com/Cyber-Rate" target="_blank"><img src="https://img.shields.io/badge/-Cyber-black?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://discord.gg/rate" target="_blank"><img src="https://img.shields.io/badge/-Rate%201993-black?style=for-the-badge&logo=discord&logoColor=1e44ee"></a>
 </div>
